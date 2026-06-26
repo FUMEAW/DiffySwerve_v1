@@ -1,6 +1,7 @@
 # DiffySwerve_v1
 
-https://github.com/FUMEAW/DiffySwerve_v1/blob/main/IMG_2564.jpeg?raw=true
+<img width="2268" height="4032" alt="IMG_2564" src="https://github.com/user-attachments/assets/8e546c41-c2ae-42d0-97bb-76d8a65bb067" />
+
 
 Dhruv's Project building a Diffy Swerb for FTC Pr0teens to hopefully be used in competition sometime in the future.
 
